@@ -1,1 +1,2 @@
-# Chinotech-Internship-Projects
+Description:
+The repository contains all projects undertaken by I, Fahim Ahmed, intern at Chinotech International during Summer 2025. During my internship, I worked on an LED Detection system to detect state of LED lights (ON/OFF) on an industrial panel and a person detection pipeline which I customised into fall detection system and deployed on a Raspberry Pi 5 with a Hailo AI accelerator. The fall detection system identifies the ankle, hip, and shoulders as keypoints using the Yolov8n pose estimation model. I utilised a nano model due to processing limitations of the Raspberry Pi 5. 
