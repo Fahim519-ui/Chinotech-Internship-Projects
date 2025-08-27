@@ -139,7 +139,7 @@ last_processing_time = time.time()
 processing_interval = 0.1  # Process ~10 FPS
 
 # Fall detection parameters
-FALL_ANGLE_THRESHOLD = 45  # degrees 
+FALL_ANGLE_THRESHOLD = 45  # angle b/w mid hip and mid shoulder points  
 FALL_RATIO_THRESHOLD = 0.7  # height/width ratio
 MIN_CONFIDENCE = 0.3  # Minimum keypoint confidence
 
