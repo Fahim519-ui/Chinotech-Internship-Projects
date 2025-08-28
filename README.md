@@ -12,7 +12,7 @@ The main repository serves as an overview. Each project has its own directory wi
 
 Acknowledgement:
 
-I would like to extend my sincere gratitude to the entire team at Chinotech International, especially Gregory and Yuan, for their invaluable guidance, support, and for providing the opportunity to work on these challenging and exciting projects.
+I would like to extend my sincere gratitude to the entire team at Chinotech International, especially Gregory, Yuan, and Vincent, for their invaluable guidance, support, and for providing the opportunity to work on these challenging and exciting projects.
 
 For any questions or concerns please feel free to reach out:
 
